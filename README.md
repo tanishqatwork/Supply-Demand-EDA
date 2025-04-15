@@ -1,4 +1,3 @@
-# Supply-Demand-EDA
 # City Supply and Demand Insights
 
 The goal of this project is to analyze urban supply and demand patterns to uncover trends, inefficiencies, and opportunities for improved resource allocation and planning.
